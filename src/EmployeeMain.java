@@ -188,5 +188,5 @@ public class EmployeeMain {
                     break;
             }
         } while (choice != 10);
-}
     }
+}
